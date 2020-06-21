@@ -28,6 +28,8 @@ Within the 7 classes, each class has 3 ascendancies besides Scion, who only has 
 
 ![ascend](/images/2.png)
 
+![spread](/images/5.png)
+
 Just by a quick look, the most popular ascendancy would be the Guardian.
 
 Now let's look at how they were spread throughout their respective leagues.
@@ -36,5 +38,8 @@ Now let's look at how they were spread throughout their respective leagues.
 
 ![ssf sc](/images/ssf sc.png) ![ssf hc](/images/ssf hc.png)
 
-From this we can tell that guardian is favored within the trade leagues and not the solo self found leagues.
+From this we can tell that Guardian is favored within the trade leagues and not the solo self found leagues.
 
+
+
+While going through the data, it clearly depicts that the favored class of Delirium is Templar and the favored Ascendancy is Guardian. 
