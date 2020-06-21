@@ -20,7 +20,11 @@ This project will be looking at the top 2000 players of each league
 
 ![2000](/images/1.png)
 
-The different ascendancies and which ones were chosen
+Between the 4 leagues, this shows how many of each class was chosen
+
+![base](/images/4.png)
+
+Within the 7 classes, each class has 3 ascendancies besides Scion, who only has 1
 
 ![ascend](/images/2.png)
 
