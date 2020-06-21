@@ -28,10 +28,9 @@ Just by a quick look, the most popular ascendancy would be the Guardian.
 
 Now let's look at how they were spread throughout their respective leagues.
 
-![hc](/images/hc.png)
+![sc](/images/sc.png) ![hc](/images/hc.png)
 
-![ssf hc](/images/ssf hc.png)
+![ssf sc](/images/ssf sc.png) ![ssf hc](/images/ssf hc.png)
 
-![sc](/images/sc.png)
+From this we can tell that guardian is favored within the trade leagues and not the solo self found leagues.
 
-![ssf sc](/images/ssf sc.png)
