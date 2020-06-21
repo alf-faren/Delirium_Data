@@ -40,6 +40,10 @@ Now let's look at how they were spread throughout their respective leagues.
 
 From this we can tell that Guardian is favored within the trade leagues and not the solo self found leagues.
 
+# Conclusion
 
+### The top picked class
+While going through the data, it clearly depicts that the favored class of Delirium is Templar and the favored Ascendancy is Guardian.
 
-While going through the data, it clearly depicts that the favored class of Delirium is Templar and the favored Ascendancy is Guardian. 
+### The level range where players mostly die at
+Within the hardcore leagues, the most deaths occur from levels 93 to 97.
