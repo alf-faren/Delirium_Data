@@ -1,4 +1,4 @@
-# How popular is this ascendancy
+# How popular is this class and which ascendancy is the most picked
 
 ### Quick look at the most popular ascendancies of the last challenge league on Path of Exile - Delirium
 
@@ -15,7 +15,7 @@ There are 4 different leagues in a single challenge league :
 
 [More info on the leagues](https://pathofexile.gamepedia.com/League)
 
-
+## Let's see which class is the most popular
 This project will be looking at the top 2000 players of each league
 
 ![2000](/images/1.png)
@@ -40,6 +40,18 @@ Now let's look at how they were spread throughout their respective leagues.
 
 From this we can tell that Guardian is favored within the trade leagues and not the solo self found leagues.
 
+## What level do the top 2000 of each league mostly die at
+
+![6](/images/6.png)![7](/images/7.png)
+
+From the plots, we can determine that most players die from the range of levels 93 to 97.
+
+## Deaths by base class and ascendancy
+
+![8](/images/8.png) ![9](/images/9.png)
+
+
+
 # Conclusion
 
 ### The top picked class
@@ -47,3 +59,6 @@ While going through the data, it clearly depicts that the favored class of Delir
 
 ### The level range where players mostly die at
 Within the hardcore leagues, the most deaths occur from levels 93 to 97.
+
+### Most class deaths by level
+Due to more people playing a certain class, it reflects that it will also lead to more deaths. In this case, it is the Templar class. While they are the class with the most deaths, they also die at a much later stage than the rest of the classes. 
