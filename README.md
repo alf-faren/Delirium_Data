@@ -2,8 +2,6 @@
 
 ### Quick look at the most popular ascendancies of the last challenge league on Path of Exile - Delirium
 
-[Link to colab](https://colab.research.google.com/drive/1650y40rFd9Jbb0jOARthdWLXU9sQEvUf#scrollTo=A2P-v-X6pGKW)
-
 ![Delirium Logo](Delirium_league_logo.png)
 
 
