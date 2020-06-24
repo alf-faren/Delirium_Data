@@ -48,7 +48,7 @@ From the plots, we can determine that most players die from the range of levels 
 
 ## Deaths by base class and ascendancy
 
-![8](/images/8.png) ![9](/images/9.png)
+![8](/images/8.png) ![10](/images/10.png)
 
 
 
