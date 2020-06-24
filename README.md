@@ -52,12 +52,13 @@ From this we can tell that Guardian is favored within the trade leagues and not 
 
 ![6](/images/6.png)![7](/images/7.png)
 
-From the plots, we can determine that most players die from the range of levels 93 to 97.
+From the plots, we can determine that most players die from the range of levels 93 to 97. This could be due to a multiple of reasons, such as riskier playstyle or even the greediness of going faster to reach level 100.
 
 ## Deaths by base class and ascendancy
 
 ![8](/images/8.png) ![10](/images/10.png)
 
+Even though the Guardian is the most played class, Gladiators have a higher death rate than them. 
 
 # Conclusion
 
